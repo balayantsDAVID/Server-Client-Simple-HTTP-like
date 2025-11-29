@@ -29,9 +29,10 @@ gcc HTTP_Server.c http.c -o server
 gcc HTTP_Client.c http.c -o client
 
 
+
 Run
-./server          # starts on port 8080
-./client          # in another terminal
+./server # starts on port 8080
+./client # in another terminal
 
 Quick Test
 
